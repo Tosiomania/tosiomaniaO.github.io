@@ -1,0 +1,37 @@
+p
+{
+    color:rgb(0, 0, 0)
+}
+u
+{
+    color: rgb(0, 0, 0);
+    font-style:italic;
+    font-size: large; 
+}
+#CV
+{
+    text-align: center;
+    font-size: large;
+    color: rgb(40, 133, 40);
+}
+#HEH
+{
+    font-size: xx-large;
+    color: rgb(54, 127, 54);
+}
+#ex
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+html
+{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/426/075/non_2x/aesthetic-white-and-green-background-with-space-for-text-modern-background-design-with-liquid-shape-white-background-with-green-liquid-shapes-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: 1889px;
+}
+body
+{
+    color: rgb(0, 0, 0); 
+}
